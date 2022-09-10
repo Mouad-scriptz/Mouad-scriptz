@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Mouad
-- 👀 I’m interested in python, lua, cpp, c#, html, sql, javascript, c
-- 🌱 I’m currently learning lua
+- 👀 I’m interested in python, lua, cpp, c#, html, sql, javascript, c, carbon, typescript
+- 🌱 I’m currently learning cpp, c#, html, javascript, c, carbon, typescript
 - 📫 How to reach me. Discord: Mouad#4819
 
 <!---
